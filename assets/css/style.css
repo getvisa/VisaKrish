@@ -754,7 +754,6 @@ p {
       height: 2px;
       background-color: #754ef9;
       left: -102.5%;
-      top: 50%;
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
