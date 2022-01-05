@@ -754,6 +754,7 @@ p {
       height: 2px;
       background-color: #754ef9;
       left: -102.5%;
+      top: 100%;
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
@@ -767,9 +768,9 @@ p {
       .header-social .header-social-icon ul li a {
         color: #ccc;
         font-size: 20px;
-        width: 60px;
-        height: 60px;
-        line-height: 60px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
         border-radius: 50%;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
