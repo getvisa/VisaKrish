@@ -232,14 +232,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .header-text a {
     width: 200px;
     height: 60px;
-    justify-content: center;
     line-height: 60px;
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
     background: #b636ff;
     border:1px solid #b636ff;
-    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+    box-shadow: 10px 5px 20px rgba(0,0,0,.2);
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
     -ms-transition: 0.3s linear; 
