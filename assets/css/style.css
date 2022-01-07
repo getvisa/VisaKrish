@@ -201,7 +201,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     top:0;
     left:0;
     background-color: #013A6B;
-    background-image: -webkit-linear-gradient(45deg, #4F33FF 50%, #004E95 50%);
+    background-image: -webkit-linear-gradient(30deg, #9F33FF 50%, #004E95 50%);
     width:100%;
     height:100%;
 }
@@ -228,7 +228,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     font-size: 15px;
     font-weight: 300;
     text-transform: capitalize;
-    margin: 10px 10px 0 10px;
+    margin: 10px 0 10px;
     letter-spacing: 1px;
 }
 .header-text a {
