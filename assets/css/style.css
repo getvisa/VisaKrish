@@ -203,7 +203,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     top:0;
     left:0;
     background-color: #fff;
-    background-image: -webkit-linear-gradient(30deg, #fff 30%, #954ED3 50%);
+    background-image: -webkit-linear-gradient(30deg, #fff 50%, #954ED3 50%);
     width:100%;
     height:100%;
 }
