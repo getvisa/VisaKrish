@@ -210,8 +210,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 
 /*.header-text-area*/
 .header-text {
-    align-items: center;
-    justify-content: center;
+    padding-top: 100px;
 }
 .header-text h2 {
     color: #000;
@@ -242,7 +241,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     line-height: 60px;
     border-radius: 3px;
     text-transform: capitalize;
-    color: #000;
+    color: #fff;
     background: #b636ff;
     border:1px solid #b636ff;
     box-shadow: 10px 5px 20px rgba(0,0,0,.2);
