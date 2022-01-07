@@ -203,13 +203,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     top:0;
     left:0;
     background-color: #fff;
-    background-image: -webkit-linear-gradient(30deg, #fff 50%, #954ED3 50%);
+    background-image: -webkit-linear-gradient(50deg, #fff 50%, #954ED3 50%);
     width:100%;
     height:100%;
 }
 
 /*.header-text-area*/
-
+.header-text {
+    align-items: center;
+    justify-content: center;
+}
 .header-text h2 {
     color: #000;
     font-size: 30px;
