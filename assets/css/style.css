@@ -126,7 +126,9 @@ nav.navbar.bootsnav {
     text-transform: uppercase;
 }
 /*.navbar-brand*/
-
+.navbar-header a.navbar-brand > span {
+    color: #000;	
+}
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
     font-size: 16px;
@@ -193,7 +195,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:1000px;
 }
 .welcome-hero:before{
     position:absolute;
@@ -300,7 +302,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 107%;
+    width: 108%;
     height: 90px;
     background: #1f2c6c;
 }
