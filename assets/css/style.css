@@ -85,14 +85,7 @@ html,body{
     height: 100%;
 	position: relative;
 }
-[placeholder]:focus::-webkit-input-placeholder {
-  -webkit-transition: opacity 0.3s 0.3s ease; 
-  -moz-transition: opacity 0.3s 0.3s ease; 
-  -ms-transition: opacity 0.3s 0.3s ease; 
-  -o-transition: opacity 0.3s 0.3s ease; 
-  transition: opacity 0.3s 0.3s ease; 
-  opacity: 0;
-}
+
 
 .fix{position: relative;clear: both;}
 /*=============Style css=========*/
