@@ -86,6 +86,14 @@ html,body{
 	position: relative;
 }
 
+[placeholder]:focus::-webkit-input-placeholder {
+  -webkit-transition: opacity 0.3s 0.3s ease; 
+  -moz-transition: opacity 0.3s 0.3s ease; 
+  -ms-transition: opacity 0.3s 0.3s ease; 
+  -o-transition: opacity 0.3s 0.3s ease; 
+  transition: opacity 0.3s 0.3s ease; 
+  opacity: 0;
+}
 
 .fix{position: relative;clear: both;}
 /*=============Style css=========*/
@@ -219,7 +227,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #954ED3;}
     text-transform: capitalize;
     line-height: 1.5;
 }
-.header-text h2 span {color: #954ED3;}
+.header-text h2, h3 span {color: #954ED3;}
 .header-text p {
     color: #000;
     font-size: 15px;
