@@ -168,7 +168,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #d92cf9;
+    border: 1px solid #954ED3;
     padding: 10px;
     top: 0;
 }
@@ -352,7 +352,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #954ED3;}
 }
 .timeline-horizontal-border i {
     font-size:  10px;
-    color: #d92cf9;
+    color: #954ED3;
     margin-right:  5px;
 }
 span.single-timeline-horizontal {
