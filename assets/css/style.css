@@ -126,10 +126,7 @@ nav.navbar.bootsnav {
     padding: 33px 0px 57px;
     text-transform: uppercase;
 }
-/*.navbar-brand*/
-.navbar-header a.navbar-brand > span {
-    color: #000;	
-}
+
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
     font-size: 16px;
